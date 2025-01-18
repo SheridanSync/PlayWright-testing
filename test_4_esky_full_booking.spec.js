@@ -135,7 +135,7 @@ test('Esky Select cheapest fly', async ({page, context}) => {
 
 
 
-    
+    await page.pause()
 })
 
 
